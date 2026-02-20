@@ -1,0 +1,15 @@
+f3d47e6f8768ee7bdba49808d05edd99 *DESCRIPTION
+7cbbac7d3c5ca9aaf010d76f139b95b6 *NAMESPACE
+756f7003e1496a942a1eff33f80fb0d2 *R/RcppExports.R
+770fa04cf7acab7e87648e97d3de3040 *R/sparselu.R
+a2b1b5c0953009096163fa7eb545594d *README.md
+5df0622a589cb0bbaa2332600facd2fd *configure
+96374720a2bb86fa6ca9e2bdb13c2e59 *man/sparseLU.Rd
+6de302a10b4e71ba2cdcf590e405ccff *man/sparseLU_solve.Rd
+826aadcfebc5bd8ea74071bae843898f *src/Makevars.in
+b123ccc91071db98c93f44115d80fb84 *src/RcppExports.cpp
+5834ce38954b96735523c11a6150f180 *src/sparselu.cpp
+e39d62e66edeca053224691b52861934 *tests/testthat.R
+c9321b9e8d3d3f11743ac9a6e7d7ac7e *tests/testthat/helper-ccs.R
+8482f5cf92d9dcaadac97a32f933ed92 *tests/testthat/test-sparselu-solve.R
+0c1dceb69fc6e09280ea060612f2cca4 *tests/testthat/test-sparselu-structure-and-validation.R
