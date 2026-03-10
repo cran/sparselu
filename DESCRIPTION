@@ -1,7 +1,7 @@
 Package: sparselu
 Type: Package
 Title: Sparse LU Decomposition via SuiteSparse
-Version: 0.2.0
+Version: 0.3.0
 Authors@R: c(person("Kevin Michael", "Frick", role = c("aut", "cre"), email = "kmfrick@proton.me"),
            person("Timothy A.", "Davis", role = "ctb",
 	         comment = c(affiliation = "SuiteSparse Project",
@@ -19,11 +19,11 @@ Encoding: UTF-8
 OS_type: unix
 RoxygenNote: 7.3.2
 NeedsCompilation: yes
-Packaged: 2026-02-18 09:01:31 UTC; kmfrick
+Packaged: 2026-03-06 08:43:52 UTC; kmfrick
 Author: Kevin Michael Frick [aut, cre],
   Timothy A. Davis [ctb] (affiliation: SuiteSparse Project, contribution:
     SuiteSparse libraries and collaborators listed in
     dir(system.file("doc", "SuiteSparse", package = "Matrix"), pattern
     = "License", full.names = TRUE, recursive = TRUE))
 Repository: CRAN
-Date/Publication: 2026-02-20 10:40:02 UTC
+Date/Publication: 2026-03-10 20:50:11 UTC
